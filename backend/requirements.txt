@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pdfplumber
+anthropic
+google-generativeai
+python-multipart
+pydantic
+sqlalchemy
+pymysql
+cryptography
+python-dotenv
+pytest
+httpx
